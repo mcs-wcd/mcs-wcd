@@ -1,0 +1,2 @@
+# mcs-wcd
+MCS-WCD is a collaboration for developing a Working Case Definition regarding Multiple Chemical Sensitivity for submission to the WHO Int. Initially, the CIIN made this submission at the request of William J. Meggs, M.D., Ph.D which failed but requested that CIIN resubmit another WCD. CIIN indicate that they don't have the resources to achieve this so the alternative is to develop a WCD in an environment where many people can collaborate. If you wish to contribute, please present your credentials to this project's owner, Jonathan R. Wilson, Melbourne, Australia. 
